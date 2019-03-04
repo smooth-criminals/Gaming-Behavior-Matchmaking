@@ -41,6 +41,9 @@ Project tasks/deliverables:
 
 Project part 1 of 5: Product inception and planning (check due date in D2L calendar)
 
+ Aplication Selected: Website Application
+ Name of Website: Matchisuru
+
 Project part 2 of 5: First Sprint (check due date in D2L calendar)
 
 Project part 3 of 5: Second Sprint (check due date in D2L calendar)
