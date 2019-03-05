@@ -39,7 +39,7 @@ Recommended: Slack -- a very popular team messaging tool; see the first two chap
 
 Project tasks/deliverables:  
 
-Project part 1 of 5: Product inception and planning (Due MArch 04, 2019)
+Project part 1 of 5: Product inception and planning (Due March 04, 2019)
 
 1. Aplication Selected: Website Application
 2. Name of Website: Matchisuru
