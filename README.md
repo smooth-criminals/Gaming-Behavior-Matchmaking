@@ -47,7 +47,7 @@ Project part 1 of 5: Product inception and planning (check due date in D2L calen
 4. Jira URL:
 5. Definition of Ready: https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Definition_of_Ready.rtf
 6. Backlog Prioritized:https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Backlog%20Prioritized
-7. Smooth Criminal Roster: 
+7. Smooth Criminal Roster: https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Smooth%20Criminal%20Roster
 
 Project part 2 of 5: First Sprint (check due date in D2L calendar)
 
