@@ -44,6 +44,9 @@ Project part 1 of 5: Product inception and planning (check due date in D2L calen
 1. Aplication Selected: Website Application
 2. Name of Website: Matchisuru
 3. Product Vision: https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/tree/master/Product%20Vision
+4. Jira URL:
+5. Definition of Ready:
+6. Backlog Prioritized:
 
 Project part 2 of 5: First Sprint (check due date in D2L calendar)
 
