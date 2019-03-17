@@ -1,0 +1,29 @@
+March 16, 2019
+
+What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? Annotate your team's response so it's clear which team members did which activities.
+
+Pui: I worked on the website’s login feature. 
+Daniel:
+JJ:
+Frank:
+Chloe:
+Alex:
+
+What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? Annotate your team's response so it's clear which team members plan to do which activities.
+
+Pui: I will continue programming the website’s login feature. 
+Daniel:
+JJ:
+Frank:
+Chloe:
+Alex:
+
+Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? What are the impediments? What is your impediment removal plan?
+
+Pui: Yes, I see an impediment. An impediment for me would be learning how the backend is associated to the front-end in terms of how the front-end affects the backend. I intend to remove the impediment by programming the frontend, so I will know what is happening from the user side. 
+Daniel:
+JJ:
+Frank:
+Chloe:
+Alex:
+
