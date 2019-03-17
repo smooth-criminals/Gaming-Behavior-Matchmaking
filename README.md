@@ -39,7 +39,15 @@ Recommended: Slack -- a very popular team messaging tool; see the first two chap
 
 Project tasks/deliverables:  
 
-Project part 1 of 5: Product inception and planning (check due date in D2L calendar)
+Project part 1 of 5: Product inception and planning (Due March 04, 2019)
+
+1. Aplication Selected: Website Application
+2. Name of Website: Matchisuru
+3. Product Vision: https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/tree/master/Product%20Vision
+4. Backlogs and User stories: https://smoothcriminals.atlassian.net/secure/RapidBoard.jspa?rapidView=5&projectKey=MAT&view=planning&selectedIssue=MAT-1
+5. Definition of Ready: https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Definition_of_Ready.rtf
+6. Backlog Prioritized:https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Backlog%20Prioritized
+7. Smooth Criminal Roster: https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Smooth%20Criminal%20Roster
 
 Project part 2 of 5: First Sprint (check due date in D2L calendar)
 
