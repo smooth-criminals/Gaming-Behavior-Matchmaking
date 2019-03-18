@@ -5,7 +5,7 @@ Annotate your team's response so it's clear which team members did which activit
 
 Pui: I worked on the website’s login database, and method.
 Daniel:
-JJ:
+JJ: Working on Create pending approval email.
 Frank:
 Chloe:
 Alex:
