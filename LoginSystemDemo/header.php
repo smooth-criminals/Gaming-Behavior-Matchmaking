@@ -1,7 +1,7 @@
 <?php session_start(); ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" style = "height:100%">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="bootstrap/bootstrap.css">
     <title>Login System in PHP</title>
 </head>
-<body style="background:url('background.jpg') no-repeat center center /cover">
+<body style="background:url('background.jpg') no-repeat center center /cover; height:100%">
     
     
     <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
