@@ -3,7 +3,7 @@
      <div class="container">
         <div class="row">
             <div class="col-lg-6 m-auto">
-                <div class="card bg-light mt-5">
+                <div class="card bg-dark mt-5">
  
                     <div class="card-title bg-primary text-white mt-5">
                         <h3 class="text-center py-2">Signup Form</h3>
