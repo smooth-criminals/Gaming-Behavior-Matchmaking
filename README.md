@@ -61,7 +61,7 @@ Project part 2 of 5: First Sprint (check due date in D2L calendar)
 5. Sprint Review: <link>
 6. Test Cases:<image of test cases>
 7. Working Prototye: <link>
-8. Code Repo: 
+8. Code Repo: https://github.com/smooth-criminals/matchisuru
 
 Project part 3 of 5: Second Sprint (check due date in D2L calendar)
 
