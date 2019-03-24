@@ -51,8 +51,8 @@ Project part 1 of 5: Product inception and planning (Due March 04, 2019)
 
 Project part 2 of 5: First Sprint (check due date in D2L calendar)
 1. Backlogs and User Stories:
-i. Admin Board: https://smoothcriminals.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=GBM&selectedIssue=GBM-33
-ii. Developer Board: https://smoothcriminals.atlassian.net/secure/RapidBoard.jspa?rapidView=5&projectKey=MAT&selectedIssue=MAT-22
+a. Admin Board: https://smoothcriminals.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=GBM&selectedIssue=GBM-33
+b. Developer Board: https://smoothcriminals.atlassian.net/secure/RapidBoard.jspa?rapidView=5&projectKey=MAT&selectedIssue=MAT-22
 2. Burndown Chart:<link or image>
  i. Admin Board:
  ii. Developer Board: 
