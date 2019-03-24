@@ -52,21 +52,38 @@ Annotate your team's response so it's clear which team members plan to do which 
 
 Pui: I will program the login method,and javascript login form.
 Daniel:
-JJ:
-Frank:
-Chloe:Finish creating the remaining backlogs and mock-up tasks needed for the next sprint.
-Alex:
 
-Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
-What are the impediments? 
-What is your impediment removal plan?
 
-Pui: Yes, I still see the same impediment. An impediment for me would be learning how the backend is associated to the 
-front-end in terms of how the front-end affects the backend. I intend to remove the impediment by 
-programming the frontend, so I will know what is happening from the user side. 
+
+March 24, 2019
+
+What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
+Annotate your team's response so it's clear which team members did which activities.
+
+Pui:
 Daniel:
 JJ:
 Frank:
-Chloe:The same impediment as yesterday affecting today. (Refer to March 16th).
-Alex:
+Chloe:
+Alex: Set up dev environment and began exploring Apostrophe CMS.
 
+What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
+Annotate your team's response so it's clear which team members plan to do which activities.
+
+Pui:
+Daniel:
+JJ:
+Frank:
+Chloe:
+Alex: Collab with the team to implement login/registration and confirmation email through Apostrophe CMS.
+
+Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
+What are the impediments?
+What is your impediment removal plan?
+
+Pui:
+Daniel:
+JJ:
+Frank:
+Chloe:
+Alex: Yes. Our lack of experience with the CMS. Removal plan: Attempt to implement the feature we need, and if we run into problems, use docs/trial-and-error/tutorials.
