@@ -50,6 +50,15 @@ Project part 1 of 5: Product inception and planning (Due March 04, 2019)
 7. Smooth Criminal Roster: https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Smooth%20Criminal%20Roster
 
 Project part 2 of 5: First Sprint (check due date in D2L calendar)
+1. Backlogs and User Stories:
+ i.
+ ii.
+2. Burndown Chart:<link or image>
+3. Daily Scrums:
+4. Mob video:<link>
+5. Sprint Review: <link>
+6. Test Cases:<image of test cases>
+7. Working Prototye: <link>
 
 Project part 3 of 5: Second Sprint (check due date in D2L calendar)
 
