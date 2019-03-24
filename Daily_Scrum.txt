@@ -7,7 +7,7 @@ Pui: I worked on the website’s login database, and method.
 Daniel:
 JJ: Working on Create pending approval email.
 Frank:
-Chloe:
+Chloe:I started the mock-ups for the first functions needed for the website (login page, confirmation page, etc.) 
 Alex:
 
 What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
@@ -17,7 +17,7 @@ Pui: I will continue programming the website’s login database, and method.
 Daniel:
 JJ:
 Frank:
-Chloe:
+Chloe:Start creating the remaining backlogs and mock-up tasks needed for the next sprint.
 Alex:
 
 Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
@@ -30,7 +30,7 @@ programming the frontend, so I will know what is happening from the user side.
 Daniel:
 JJ:
 Frank:
-Chloe:
+Chloe:I could see changing the method on how we want our backend to work causing the Development Team to not finish their goals. 
 Alex:
 
 
@@ -44,7 +44,7 @@ Pui: I worked on the website’s login database, and method.
 Daniel:
 JJ:
 Frank:
-Chloe:
+Chloe:I finished he mock-ups for the first functions needed for the website (login page, confirmation page, etc.)
 Alex:
 
 What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
@@ -54,7 +54,7 @@ Pui: I will program the login method,and javascript login form.
 Daniel:
 JJ:
 Frank:
-Chloe:
+Chloe:Finish creating the remaining backlogs and mock-up tasks needed for the next sprint.
 Alex:
 
 Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
@@ -67,6 +67,6 @@ programming the frontend, so I will know what is happening from the user side.
 Daniel:
 JJ:
 Frank:
-Chloe:
+Chloe:The same impediment as yesterday affecting today. (Refer to March 16th).
 Alex:
 
