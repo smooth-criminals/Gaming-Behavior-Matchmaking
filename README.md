@@ -42,7 +42,7 @@ Recommended: Slack -- a very popular team messaging tool; see the first two chap
 **Project part 1 of 5: Product inception and planning (Due March 04, 2019)**
 
 1. Aplication Selected: Website Application
-2. Name of Website: Matchisuru
+2. Name of Website: **Matchisuru**
 3. Product Vision: https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/tree/master/Product%20Vision
 4. Backlogs and User stories: https://smoothcriminals.atlassian.net/secure/RapidBoard.jspa?rapidView=5&projectKey=MAT&view=planning&selectedIssue=MAT-1
 5. Definition of Ready: https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Definition_of_Ready.rtf
