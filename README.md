@@ -3,7 +3,7 @@ A multiplatform online gaming behavioral matchmaking system
 
  
 
-Background:
+**Background:**
 
 Online gaming is an enormous industry that grows each year. As the audience for online multiplayer games has gotten bigger, the technology to meaningfully match these players has lagged behind. Often times players, especially in competitive settings, are matched using game metrics and statistics in order to have players of a similar skill caliber play together. As this has become commonplace, players find themselves matched with people who appear only as a username. With a lack of personal connection, some players engage in negative communication which results in a lower quality gaming experience for all.
 
