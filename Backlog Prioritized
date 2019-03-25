@@ -1,3 +1,4 @@
+**Part 1**
 Our backlog was prioritized using several factors. Value-based Prioritization was used. 
 
 We first created all User Storys and Tasks based on the requirements for Part 1. 
@@ -11,3 +12,16 @@ Third, we placed a dependency value to each User Story and Task. Tasks that need
 With each of these values placed on our backlog, we were able to assort accordingly. However, at the end of Part 1, some adjustments may be made for future sprint's backlogs. 
 
 What we could improve for future Sprint's backlog is rational prioritization. This means that tasks that must be done before another task are appropriately prioritized in the backlog. 
+
+**Part 2: Sprint 1**
+Like Part 1, our backlog was prioritized using multiple factors, some new factors added for optimization. 
+
+One of the biggest changes is that we create 2 boards: An Admin board for the Product Owner to ensure that each requirement for the Sprint is met.
+And a Standard Developer board that maps the user stories and tasks needed to develop the website. 
+
+For the Admin board, it was ordered based on the professor's rubric order. This is to make it easier on the Product Owner.
+
+For the Developer board, we ranked the tasks based on logical timeline. By logical, we mean that a certain page must be created before another is order. 
+As an example: The sign-up and login page must come before the reset login page, since the only way you can reset your login info is if you have created an account and have login credentials. 
+
+We believe this helped the team be more organized for Part 2: Sprint 1 
