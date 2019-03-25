@@ -54,7 +54,7 @@ Daniel:
 JJ:
 Frank:
 Chloe:
-Chloe:Finish creating the remaining backlogs and mock-up tasks needed for the next sprint.
+Chloe:Continued creating the remaining backlogs and mock-up tasks needed for the next sprint.
 Alex:
 
 Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
@@ -80,7 +80,7 @@ Pui: Set up Apostrophe CMS environment.
 Daniel: Helped team members setup the development environement.
 JJ:
 Frank:
-Chloe:
+Chloe:Set up dev enviornment and started user stories for the next Sprint. 
 Alex: Set up dev environment and began exploring Apostrophe CMS.
 
 What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
@@ -90,17 +90,16 @@ Pui: Mob program with the team to code the login, login feature with Facebook, a
 Daniel: Setup initial templated look and feel for matchisuru. Mob with team on implementing registration and login stories.
 JJ:
 Frank:
-Chloe:
+Chloe:Ensure all tasks and user stories are being completed before the deadline. 
 Alex: Collab with the team to implement login/registration and confirmation email through Apostrophe CMS.
 
 Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
 What are the impediments?
 What is your impediment removal plan?
 
-Pui: Yes, since none of the team members, including myself, have experience with Apostrophe, it may be difficult to use. My impediment removal plan
-	 is to work with Apostrophe CMS on my own time before the next mob session. 
+Pui: Yes, since none of the team members, including myself, have experience with Apostrophe, it may be difficult to use. My impediment removal plan is to work with Apostrophe CMS on my own time before the next mob session. 
 Daniel: I do not have any impediments at this time.
 JJ:
 Frank:
-Chloe:
+Chloe: None. 
 Alex: Yes. Our lack of experience with the CMS. Removal plan: Attempt to implement the feature we need, and if we run into problems, use docs/trial-and-error/tutorials.
