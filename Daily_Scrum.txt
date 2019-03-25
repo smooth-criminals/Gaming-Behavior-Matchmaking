@@ -77,7 +77,7 @@ What did you do in the last 24 hours that helped the Development Team meet the S
 Annotate your team's response so it's clear which team members did which activities.
 
 Pui: Set up Apostrophe CMS environment.
-Daniel:
+Daniel: Helped team members setup the development environement.
 JJ:
 Frank:
 Chloe:
@@ -87,7 +87,7 @@ What will you do in the next 24 hours to help the Development Team meet the Spri
 Annotate your team's response so it's clear which team members plan to do which activities.
 
 Pui: Mob program with the team to code the login, login feature with Facebook, and confirmation email feature, as well as, UX design. 
-Daniel:
+Daniel: Setup initial templated look and feel for matchisuru. Mob with team on implementing registration and login stories.
 JJ:
 Frank:
 Chloe:
@@ -99,7 +99,7 @@ What is your impediment removal plan?
 
 Pui: Yes, since none of the team members, including myself, have experience with Apostrophe, it may be difficult to use. My impediment removal plan
 	 is to work with Apostrophe CMS on my own time before the next mob session. 
-Daniel:
+Daniel: I do not have any impediments at this time.
 JJ:
 Frank:
 Chloe:
