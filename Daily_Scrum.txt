@@ -48,10 +48,26 @@ Chloe:I finished he mock-ups for the first functions needed for the website (log
 Alex:
 
 What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
-Annotate your team's response so it's clear which team members plan to do which activities.
 
 Pui: I will program the login method,and javascript login form.
 Daniel:
+JJ:
+Frank:
+Chloe:
+Chloe:Finish creating the remaining backlogs and mock-up tasks needed for the next sprint.
+Alex:
+
+Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
+What are the impediments? 
+What is your impediment removal plan?
+
+Pui: Same impediment as March 16, 2019.
+Daniel:
+JJ:
+Frank:
+Chloe:
+Chloe:The same impediment as yesterday affecting today. (Refer to March 16th).
+Alex:
 
 
 
@@ -60,7 +76,7 @@ March 24, 2019
 What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
 Annotate your team's response so it's clear which team members did which activities.
 
-Pui:
+Pui: Set up Apostrophe CMS environment.
 Daniel:
 JJ:
 Frank:
@@ -70,7 +86,7 @@ Alex: Set up dev environment and began exploring Apostrophe CMS.
 What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
 Annotate your team's response so it's clear which team members plan to do which activities.
 
-Pui:
+Pui: Mob program with the team to code the login, login feature with Facebook, and confirmation email feature, as well as, UX design. 
 Daniel:
 JJ:
 Frank:
@@ -81,7 +97,8 @@ Do you see any impediment that prevents you or the Development Team from meeting
 What are the impediments?
 What is your impediment removal plan?
 
-Pui:
+Pui: Yes, since none of the team members, including myself, have experience with Apostrophe, it may be difficult to use. My impediment removal plan
+	 is to work with Apostrophe CMS on my own time before the next mob session. 
 Daniel:
 JJ:
 Frank:
