@@ -4,21 +4,21 @@ What did you do in the last 24 hours that helped the Development Team meet the S
 Annotate your team's response so it's clear which team members did which activities.
 
 Pui: I worked on the website’s login database, and method.
-Daniel:
-JJ: Working on Create pending approval email.
-Frank:
+Daniel: Acquired website domain and worked with Frank to figure out DevOps.
+JJ: Working on Create login and register forms.
+Frank: I am figuring out DevOps for this web application. 
 Chloe:I started the mock-ups for the first functions needed for the website (login page, confirmation page, etc.) 
-Alex:
+Alex: I am working on the database.
 
 What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
 Annotate your team's response so it's clear which team members plan to do which activities.
 
 Pui: I will continue programming the website’s login database, and method. 
-Daniel:
-JJ:
-Frank:
+Daniel: I will track progress of user stories to make they are completed in a timely manner. 
+JJ: Continue working on creating login and register forms. 
+Frank: I will continue to figure how to implement DevOps. 
 Chloe:Start creating the remaining backlogs and mock-up tasks needed for the next sprint.
-Alex:
+Alex: I will continue connecting database to the web application. 
 
 Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
 What are the impediments? 
@@ -27,11 +27,11 @@ What is your impediment removal plan?
 Pui: Yes, I see an impediment. An impediment for me would be learning how the backend is associated to the 
 front-end in terms of how the front-end affects the backend. I intend to remove the impediment by 
 programming the frontend, so I will know what is happening from the user side. 
-Daniel:
-JJ:
-Frank:
+Daniel: I do not have any impediments at this time.
+JJ: Yes, working on my assigned user stories. I don't know web languages. I will watch video tutorials to have a better understanding. 
+Frank: I don't see any right now.  
 Chloe:I could see changing the method on how we want our backend to work causing the Development Team to not finish their goals. 
-Alex:
+Alex: Yes. I do not have any experience with implementing databases for web applications. Removal Plan: Read tutorials about MySQL databases.
 
 
 
@@ -41,33 +41,32 @@ What did you do in the last 24 hours that helped the Development Team meet the S
 Annotate your team's response so it's clear which team members did which activities.
 
 Pui: I worked on the website’s login database, and method.
-Daniel:
-JJ:
-Frank:
-Chloe:I finished he mock-ups for the first functions needed for the website (login page, confirmation page, etc.)
-Alex:
+Daniel: I worked on implementing DevOps.
+JJ: I worked on login form, registration form, and inserting data into database. 
+Frank: I work on DevOps with Daniel. 
+Chloe:I finished the mock-ups for the first functions needed for the website (login page, confirmation page, etc.)
+Alex: I worked on setting up the database. 
 
 What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
 
 Pui: I will program the login method,and javascript login form.
-Daniel:
-JJ:
-Frank:
-Chloe:
+Daniel: Try to fully implement DevOps.
+JJ: Try to finish my user stories.
+Frank: Implement DevOps. 
+Chloe: I will help implement the user interface. 
 Chloe:Continued creating the remaining backlogs and mock-up tasks needed for the next sprint.
-Alex:
+Alex: Try to finish database connection with the front end. 
 
 Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
 What are the impediments? 
 What is your impediment removal plan?
 
-Pui: Same impediment as March 16, 2019.
-Daniel:
-JJ:
-Frank:
-Chloe:
+Pui: Same impediment as March 16, 2019, and removal plan as yesterday.
+Daniel: I do not have any impediments at this time.
+JJ: Yes, same as yesterday. Do same removal plan. 
+Frank: No, I don't see any. 
 Chloe:The same impediment as yesterday affecting today. (Refer to March 16th).
-Alex:
+Alex: Yes. I see the impediment from yesterday as still an impediment. I will follow the same removal plan.
 
 
 
@@ -78,8 +77,8 @@ Annotate your team's response so it's clear which team members did which activit
 
 Pui: Set up Apostrophe CMS environment.
 Daniel: Helped team members setup the development environement.
-JJ:
-Frank:
+JJ: Set up Apostrophe environment.
+Frank: I set up the environment needed to work with Apostrophe. 
 Chloe:Set up dev enviornment and started user stories for the next Sprint. 
 Alex: Set up dev environment and began exploring Apostrophe CMS.
 
@@ -88,8 +87,8 @@ Annotate your team's response so it's clear which team members plan to do which 
 
 Pui: Mob program with the team to code the login, login feature with Facebook, and confirmation email feature, as well as, UX design. 
 Daniel: Setup initial templated look and feel for matchisuru. Mob with team on implementing registration and login stories.
-JJ:
-Frank:
+JJ: Mob with the group to implement login and registration. 
+Frank: Join the mobbing programming session to help with login and registration functions. 
 Chloe:Ensure all tasks and user stories are being completed before the deadline. 
 Alex: Collab with the team to implement login/registration and confirmation email through Apostrophe CMS.
 
@@ -99,7 +98,7 @@ What is your impediment removal plan?
 
 Pui: Yes, since none of the team members, including myself, have experience with Apostrophe, it may be difficult to use. My impediment removal plan is to work with Apostrophe CMS on my own time before the next mob session. 
 Daniel: I do not have any impediments at this time.
-JJ:
-Frank:
+JJ: Yes, learning Apostrophe. I do not know much about it. I will play around with it to learn how it works. 
+Frank: I don't see any impediments now.
 Chloe: None. 
 Alex: Yes. Our lack of experience with the CMS. Removal plan: Attempt to implement the feature we need, and if we run into problems, use docs/trial-and-error/tutorials.
