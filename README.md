@@ -60,7 +60,7 @@ Recommended: Slack -- a very popular team messaging tool; see the first two chap
 4. Mob video:<link>
 5. Sprint Review: https://smoothcriminals.atlassian.net/wiki/spaces/GBM/pages/9699340/Sprint+Review
 6. Test Cases:<image of test cases>
-7. Working Prototye: https://matchisuru.herokuapp.com/
+7. Working Prototye: http://matchisuru2.herokuapp.com/
 8. Code Repo: https://github.com/smooth-criminals/matchisuru
 
 **Project part 3 of 5: Second Sprint (check due date in D2L calendar)**
