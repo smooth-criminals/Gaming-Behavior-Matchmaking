@@ -57,7 +57,7 @@ Recommended: Slack -- a very popular team messaging tool; see the first two chap
    1. Admin Board: https://smoothcriminals.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=GBM&view=reporting&chart=burndownChart&sprint=4
    2. Developer Board: https://smoothcriminals.atlassian.net/secure/RapidBoard.jspa?rapidView=5&projectKey=MAT&view=reporting&chart=burndownChart&sprint=8
 3. Daily Scrums:https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Daily_Scrum.txt
-4. Mob video:<link>
+4. Mob evidence: https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Part%202%20Sprint%201%20Mob%20Evidence.png
 5. Sprint Review: https://smoothcriminals.atlassian.net/wiki/spaces/GBM/pages/9699340/Sprint+Review
 6. Test Cases:<image of test cases>
 7. Working Prototye: http://matchisuru2.herokuapp.com/
