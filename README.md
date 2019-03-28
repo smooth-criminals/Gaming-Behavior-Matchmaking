@@ -54,13 +54,13 @@ Recommended: Slack -- a very popular team messaging tool; see the first two chap
    1. Admin Board: https://smoothcriminals.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=GBM&selectedIssue=GBM-33
    2. Developer Board: https://smoothcriminals.atlassian.net/secure/RapidBoard.jspa?rapidView=5&projectKey=MAT&selectedIssue=MAT-22
 2. Burndown Chart:<link or image>
-   1. Admin Board:
-   2. Developer Board: 
+   1. Admin Board: https://smoothcriminals.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=GBM&view=reporting&chart=burndownChart&sprint=4
+   2. Developer Board: https://smoothcriminals.atlassian.net/secure/RapidBoard.jspa?rapidView=5&projectKey=MAT&view=reporting&chart=burndownChart&sprint=8
 3. Daily Scrums:https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Daily_Scrum.txt
 4. Mob video:<link>
 5. Sprint Review: <link>
 6. Test Cases:<image of test cases>
-7. Working Prototye: <link>
+7. Working Prototye: http://www.matchisuru.com/index.html
 8. Code Repo: https://github.com/smooth-criminals/matchisuru
 
 **Project part 3 of 5: Second Sprint (check due date in D2L calendar)**
