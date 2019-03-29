@@ -83,7 +83,8 @@ Recommended: Slack -- a very popular team messaging tool; see the first two chap
 
 **Project part 5 of 5: Presentation&Demo (check due date in D2L calendar) Note: f2f students require to present/demo their projects in class.**
 
-**Note:**
+**Notes (important–make sure to read carefully):**
+
+Each team must designate a Product Owner, responsible for the product vision as well as the content of each sprint, and a Scrum Master responsible for the overall process. All submissions are at team-based level. This means only the Scrum Master from each group will submit the deliverables on the behalf of her/his team. You should communicate with your teammates early and begin working on the project. Make sure you break up the project so that each member of the team has a responsibility. The project is graded at the team level. This means that each team member usually receives the same grade for each such element. However, if a student does not perform at the team level for a given element, that student should NOT expect the same grade as the other team members. This includes both students who choose not to participate to an appropriate degree and those who choose to be “team hero”.
+ 
 Weightage: 50% (team effort) + 20% final presentation 
-If you have any questions about the project, please use this open discussion forum: Questions & Discussion about the Team Project
-[Note, there is an exclusive discussion forum created for each group to communicate more privately with one another].
