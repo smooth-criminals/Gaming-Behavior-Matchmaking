@@ -76,8 +76,8 @@ Recommended: Slack -- a very popular team messaging tool; see the first two chap
 4. Mob Evidence: 
 5. Sprint Review: https://smoothcriminals.atlassian.net/wiki/spaces/M/pages/32407553/Sprint+Review+Part+3+Sprint+2
 6. Test Cases:
-7: Working Prototype:
-8: Code Repo: 
+7. Working Prototype:
+8. Code Repo: 
 
 **Project part 4 of 5: Third and final Sprint (check due date in D2L calendar)**
 
