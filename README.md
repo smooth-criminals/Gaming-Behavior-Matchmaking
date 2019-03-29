@@ -53,17 +53,29 @@ Recommended: Slack -- a very popular team messaging tool; see the first two chap
 1. Backlogs and User Stories:
    1. Admin Board: https://smoothcriminals.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=GBM&selectedIssue=GBM-33
    2. Developer Board: https://smoothcriminals.atlassian.net/secure/RapidBoard.jspa?rapidView=5&projectKey=MAT&selectedIssue=MAT-22
-2. Burndown Chart:<link or image>
+2. Burndown Chart:
    1. Admin Board: https://smoothcriminals.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=GBM&view=reporting&chart=burndownChart&sprint=4
    2. Developer Board: https://smoothcriminals.atlassian.net/secure/RapidBoard.jspa?rapidView=5&projectKey=MAT&view=reporting&chart=burndownChart&sprint=8
 3. Daily Scrums:https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Daily_Scrum.txt
-4. Mob evidence: https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Part%202%20Sprint%201%20Mob%20Evidence.png
+4. Mob Evidence: https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Part%202%20Sprint%201%20Mob%20Evidence.png
 5. Sprint Review: https://smoothcriminals.atlassian.net/wiki/spaces/GBM/pages/9699340/Sprint+Review
 6. Test Cases:https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Testing%20Cases%20Evidence.png
 7. Working Prototye: http://matchisuru2.herokuapp.com/
 8. Code Repo: https://github.com/smooth-criminals/matchisuru
 
-**Project part 3 of 5: Second Sprint (check due date in D2L calendar)**
+**Project part 3 of 5: Second Sprint (Due April 14th, 2019)**
+1. Backlogs and User Stories:
+  1. Admin Board: https://smoothcriminals.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=GBM&selectedIssue=GBM-76
+  2. Developer Board:https://smoothcriminals.atlassian.net/secure/RapidBoard.jspa?rapidView=5&projectKey=MAT&selectedIssue=MAT-65
+2. Burndown Chart: 
+  1. Admin Board: https://smoothcriminals.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=GBM&view=reporting&chart=burndownChart&sprint=5
+  2. Developer Board: https://smoothcriminals.atlassian.net/secure/RapidBoard.jspa?rapidView=5&projectKey=MAT&view=reporting&chart=burndownChart&sprint=9
+3. Daily Scrums:https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Daily_Scrum.txt
+4. Mob Evidence: 
+5. Sprint Review:
+6. Test Cases:
+7: Working Prototype:
+8: Code Repo: 
 
 **Project part 4 of 5: Third and final Sprint (check due date in D2L calendar)**
 
