@@ -59,7 +59,7 @@ Recommended: Slack -- a very popular team messaging tool; see the first two chap
 3. Daily Scrums:https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Daily_Scrum.txt
 4. Mob evidence: https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Part%202%20Sprint%201%20Mob%20Evidence.png
 5. Sprint Review: https://smoothcriminals.atlassian.net/wiki/spaces/GBM/pages/9699340/Sprint+Review
-6. Test Cases:<image of test cases>
+6. Test Cases:https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Testing%20Cases%20Evidence.png
 7. Working Prototye: http://matchisuru2.herokuapp.com/
 8. Code Repo: https://github.com/smooth-criminals/matchisuru
 
