@@ -79,9 +79,23 @@ Recommended: Slack -- a very popular team messaging tool; see the first two chap
 7. Working Prototype:
 8. Code Repo: 
 
-**Project part 4 of 5: Third and final Sprint (check due date in D2L calendar)**
+**Project part 4 of 5: Third and final Sprint (April 30th, 2019)**
+1. Backlogs and User Stories:
+   1. Admin Board:
+   2. Developer Board:
+2. Burndown Chart: 
+   1. Admin Board:
+   2. Developer Board:
+3. Daily Scrums:
+4. Mob Evidence: 
+5. Sprint Review:
+6. Test Cases:
+7. Working Prototype:
+8. Code Repo: 
 
-**Project part 5 of 5: Presentation&Demo (check due date in D2L calendar) Note: f2f students require to present/demo their projects in class.**
+**Project part 5 of 5: Presentation&Demo (May 2nd, 2019)**
+1. Presentation
+2. Final Website: 
 
 **Notes (important–make sure to read carefully):**
 
