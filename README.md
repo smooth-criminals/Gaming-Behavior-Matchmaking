@@ -74,7 +74,7 @@ Recommended: Slack -- a very popular team messaging tool; see the first two chap
    2. Developer Board: https://smoothcriminals.atlassian.net/secure/RapidBoard.jspa?rapidView=5&projectKey=MAT&view=reporting&chart=burndownChart&sprint=9
 3. Daily Scrums:https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Daily_Scrum.txt
 4. Mob Evidence: 
-5. Sprint Review:
+5. Sprint Review: https://smoothcriminals.atlassian.net/wiki/spaces/M/pages/32407553/Sprint+Review+Part+3+Sprint+2
 6. Test Cases:
 7: Working Prototype:
 8: Code Repo: 
