@@ -62,7 +62,7 @@ Recommended: Slack -- a very popular team messaging tool; see the first two chap
 6. Test Cases:
    1. https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Testing%20Cases%20Evidence.png
    2. https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Test.php
-7. Working Prototye: http://matchisuru2.herokuapp.com/
+7. Working Prototye: http://mat-php.herokuapp.com
 8. Code Repo: https://github.com/smooth-criminals/Matchisuru-php
 
 **Project part 3 of 5: Second Sprint (Due April 14th, 2019)**
