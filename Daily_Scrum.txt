@@ -102,3 +102,135 @@ JJ: Yes, learning Apostrophe. I do not know much about it. I will play around wi
 Frank: I don't see any impediments now.
 Chloe: None. 
 Alex: Yes. Our lack of experience with the CMS. Removal plan: Attempt to implement the feature we need, and if we run into problems, use docs/trial-and-error/tutorials.
+
+April 4, 2019: 
+
+What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
+Annotate your team's response so it's clear which team members did which activities.
+
+Pui: 
+Daniel: 
+JJ: 
+Frank: 
+Chloe: 
+Alex: 
+
+What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
+Annotate your team's response so it's clear which team members plan to do which activities.
+
+Pui: 
+Daniel: 
+JJ:  
+Frank:  
+Chloe:
+Alex: 
+
+Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
+What are the impediments?
+What is your impediment removal plan?
+
+Pui: 
+Daniel: 
+JJ:  
+Frank: 
+Chloe: 
+Alex: 
+
+April 8, 2019: 
+
+What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
+Annotate your team's response so it's clear which team members did which activities.
+
+Pui: 
+Daniel: 
+JJ: 
+Frank: 
+Chloe: 
+Alex: 
+
+What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
+Annotate your team's response so it's clear which team members plan to do which activities.
+
+Pui: 
+Daniel: 
+JJ:  
+Frank:  
+Chloe:
+Alex: 
+
+Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
+What are the impediments?
+What is your impediment removal plan?
+
+Pui: 
+Daniel: 
+JJ:  
+Frank: 
+Chloe: 
+Alex: 
+
+April 10, 2019: 
+
+What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
+Annotate your team's response so it's clear which team members did which activities.
+
+Pui: 
+Daniel: 
+JJ: 
+Frank: 
+Chloe: 
+Alex: 
+
+What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
+Annotate your team's response so it's clear which team members plan to do which activities.
+
+Pui: 
+Daniel: 
+JJ:  
+Frank:  
+Chloe:
+Alex: 
+
+Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
+What are the impediments?
+What is your impediment removal plan?
+
+Pui: 
+Daniel: 
+JJ:  
+Frank: 
+Chloe: 
+Alex: 
+
+April 12, 2019: 
+
+What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
+Annotate your team's response so it's clear which team members did which activities.
+
+Pui: 
+Daniel: 
+JJ: 
+Frank: 
+Chloe: 
+Alex: 
+
+What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
+Annotate your team's response so it's clear which team members plan to do which activities.
+
+Pui: 
+Daniel: 
+JJ:  
+Frank:  
+Chloe:
+Alex: 
+
+Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
+What are the impediments?
+What is your impediment removal plan?
+
+Pui: 
+Daniel: 
+JJ:  
+Frank: 
+Chloe: 
+Alex: 
