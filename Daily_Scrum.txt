@@ -109,20 +109,20 @@ What did you do in the last 24 hours that helped the Development Team meet the S
 Annotate your team's response so it's clear which team members did which activities.
 
 Pui: Continued working on our PHP site, and work on User Stories with Chloe. 
-Daniel: 
-JJ: 
-Frank: 
+Daniel: N/A
+JJ: N/A
+Frank: N/A
 Chloe: Worked on new User Stories and ensured backlog was the way it needs to be for the current Sprint
-Alex: 
+Alex: Started on logic on emails for reset password, and verification
 
 What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
 Annotate your team's response so it's clear which team members plan to do which activities.
 
-Pui: 
-Daniel: 
+Pui: Assist Alex with the logic for the emails
+Daniel: Working on QA and testing the current features
 JJ:  
-Frank:  
-Chloe:
+Frank:  Assist Daniel with QA
+Chloe: Complete remaining Mock-Ups and Admin board
 Alex: 
 
 Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
@@ -130,10 +130,10 @@ What are the impediments?
 What is your impediment removal plan?
 
 Pui: 
-Daniel: 
+Daniel: None
 JJ:  
 Frank: 
-Chloe: 
+Chloe: None
 Alex: 
 
 April 8:
@@ -162,7 +162,7 @@ What will you do in the next 24 hours to help the Development Team meet the Spri
 Annotate your team's response so it's clear which team members plan to do which activities.
 
 Pui: 
-Daniel: Complet email verification and member registration refactor
+Daniel: Completed email verification and member registration refactor
 JJ:  
 Frank:  
 Chloe:
@@ -176,7 +176,7 @@ Pui:
 Daniel: None
 JJ:  
 Frank: 
-Chloe: 
+Chloe: None
 Alex: 
 
 April 11, 2019:
@@ -212,7 +212,7 @@ Pui:
 Daniel: None
 JJ:  
 Frank: 
-Chloe: 
+Chloe: None
 Alex: 
 
 
