@@ -119,22 +119,22 @@ What will you do in the next 24 hours to help the Development Team meet the Spri
 Annotate your team's response so it's clear which team members plan to do which activities.
 
 Pui: Assist Alex with the logic for the emails
-Daniel: Working on QA and testing the current features
-JJ:  
-Frank:  Assist Daniel with QA
+Daniel: Working on QA/testing the current features
+JJ:  Assist Chloe with finding contecnt on the Top Games selected
+Frank:  Assist Daniel with QA/testing
 Chloe: Complete remaining Mock-Ups and Admin board
-Alex: 
+Alex: Continue working on the features for this Sprint
 
 Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
 What are the impediments?
 What is your impediment removal plan?
 
-Pui: 
+Pui: None
 Daniel: None
-JJ:  
-Frank: 
-Chloe: None
-Alex: 
+JJ:  None
+Frank: None
+Chloe: None-- Still early within the Sprint. To early to tell, team agreed. 
+Alex: None
 
 April 8:
 Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
@@ -151,33 +151,33 @@ April 10, 2019:
 What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
 Annotate your team's response so it's clear which team members did which activities.
 
-Pui: 
+Pui: Completed email logic for reset paswword
 Daniel: Yester: Start registration refatoring. 
-JJ: 
-Frank: 
-Chloe: 
-Alex: 
+JJ: Started logic for Dashboard with Alex
+Frank: QA 
+Chloe: QA
+Alex: Started logic for dashboard with JJ
 
 What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
 Annotate your team's response so it's clear which team members plan to do which activities.
 
-Pui: 
+Pui: Finish remaining features with Alex and JJ
 Daniel: Completed email verification and member registration refactor
-JJ:  
-Frank:  
-Chloe:
-Alex: 
+JJ:  Complete Dashboard 
+Frank:  Continue QA
+Chloe: Continue QA with Frank
+Alex: Complete Dashboard and provide Chloe with mob video
 
 Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
 What are the impediments?
 What is your impediment removal plan?
 
-Pui: 
+Pui: No; This Sprint went smoother than last and we were able to get more done than expected
 Daniel: None
-JJ:  
-Frank: 
+JJ:  No
+Frank: Maybe; Some inner striff but we worked it out now
 Chloe: None
-Alex: 
+Alex: None
 
 April 11, 2019:
 Daniel: Yesterday: Completed registration refatoring Today and email verification. Today: Complete password reset. Add links and pages for News and Match-up Blocks: None
@@ -187,32 +187,32 @@ April 12, 2019:
 What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
 Annotate your team's response so it's clear which team members did which activities.
 
-Pui: 
+Pui: Assisted Alex and JJ in completing features and will push code today
 Daniel: Yesterday: Completed passwor reset. Added links and pages for News and Match-up. Today: Start work on user dashboard
-JJ: 
-Frank: 
-Chloe: 
-Alex: 
+JJ: Worked on finishing features
+Frank: N/A
+Chloe: Worked on GitHub README to ensure all parts of the Sprint are ready for the due date April 14th. Woriking with the team to ensure everything gets done in time
+Alex: Worked on finishing features
 
 What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
 Annotate your team's response so it's clear which team members plan to do which activities.
 
-Pui: 
+Pui: Provide Chloe with the test cases to submit to Repo and add link to README for submission
 Daniel: Yesterday: started working on user dashboard, Today: Continue work on user profile
-JJ:  
-Frank:  
-Chloe:
-Alex: 
+JJ:  Assist Chloe with finishing the Questionnaire for the next Sprint (content related)
+Frank:  Provide outlook for the next sprint so that everything is done for the final Sprint.
+Chloe: Work on content with JJ and finish the questionnaire
+Alex: Push all changes to repo for submission 
 
 Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
 What are the impediments?
 What is your impediment removal plan?
 
-Pui: 
+Pui: None
 Daniel: None
-JJ:  
-Frank: 
+JJ:  None
+Frank: None
 Chloe: None
-Alex: 
+Alex: None
 
 
