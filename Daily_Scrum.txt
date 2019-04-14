@@ -136,6 +136,15 @@ Frank:
 Chloe: 
 Alex: 
 
+April 8:
+Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
+What are the impediments?
+What is your impediment removal plan?
+
+Daniel: Today: Completed refactoring on member login. Blocks: None
+
+April 9:
+Daniel: Yesterday: Completed refactoring member login. Today: Start refactoring on member registration. Blocks: None
 
 April 10, 2019: 
 
@@ -143,7 +152,7 @@ What did you do in the last 24 hours that helped the Development Team meet the S
 Annotate your team's response so it's clear which team members did which activities.
 
 Pui: 
-Daniel: 
+Daniel: Yester: Start registration refatoring. 
 JJ: 
 Frank: 
 Chloe: 
@@ -153,7 +162,7 @@ What will you do in the next 24 hours to help the Development Team meet the Spri
 Annotate your team's response so it's clear which team members plan to do which activities.
 
 Pui: 
-Daniel: 
+Daniel: Complet email verification and member registration refactor
 JJ:  
 Frank:  
 Chloe:
@@ -164,11 +173,14 @@ What are the impediments?
 What is your impediment removal plan?
 
 Pui: 
-Daniel: 
+Daniel: None
 JJ:  
 Frank: 
 Chloe: 
 Alex: 
+
+April 11, 2019:
+Daniel: Yesterday: Completed registration refatoring Today and email verification. Today: Complete password reset. Add links and pages for News and Match-up Blocks: None
 
 April 12, 2019: 
 
@@ -176,7 +188,7 @@ What did you do in the last 24 hours that helped the Development Team meet the S
 Annotate your team's response so it's clear which team members did which activities.
 
 Pui: 
-Daniel: 
+Daniel: Yesterday: Completed passwor reset. Added links and pages for News and Match-up. Today: Start work on user dashboard
 JJ: 
 Frank: 
 Chloe: 
@@ -186,7 +198,7 @@ What will you do in the next 24 hours to help the Development Team meet the Spri
 Annotate your team's response so it's clear which team members plan to do which activities.
 
 Pui: 
-Daniel: 
+Daniel: Yesterday: started working on user dashboard, Today: Continue work on user profile
 JJ:  
 Frank:  
 Chloe:
@@ -197,8 +209,10 @@ What are the impediments?
 What is your impediment removal plan?
 
 Pui: 
-Daniel: 
+Daniel: None
 JJ:  
 Frank: 
 Chloe: 
 Alex: 
+
+
