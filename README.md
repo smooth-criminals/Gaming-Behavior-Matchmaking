@@ -63,7 +63,7 @@ Recommended: Slack -- a very popular team messaging tool; see the first two chap
    1. https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Testing%20Cases%20Evidence.png
    2. https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Test.php
 7. Working Prototye: http://mat-php.herokuapp.com
-8. Code Repo: https://github.com/smooth-criminals/Matchisuru-php
+8. Code Repo: https://github.com/smooth-criminals/mat-php
 9. Backlog Prioritized: https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Backlog%20Prioritized
 
 **Project part 3 of 5: Second Sprint (Due April 14th, 2019)**
@@ -78,7 +78,7 @@ Recommended: Slack -- a very popular team messaging tool; see the first two chap
 5. Sprint Review: https://smoothcriminals.atlassian.net/wiki/spaces/M/pages/32407553/Sprint+Review+Part+3+Sprint+2
 6. Test Cases:
 7. Working Prototype:http://mat-php.herokuapp.com
-8. Code Repo: https://github.com/smooth-criminals/Matchisuru-php
+8. Code Repo: https://github.com/smooth-criminals/mat-php
 9. Backlog Prioritized: https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Backlog%20Prioritized
 10. CD evidence: https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/1555289859591.png
 
