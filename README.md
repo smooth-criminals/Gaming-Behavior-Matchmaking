@@ -80,6 +80,7 @@ Recommended: Slack -- a very popular team messaging tool; see the first two chap
 7. Working Prototype:http://mat-php.herokuapp.com
 8. Code Repo: https://github.com/smooth-criminals/Matchisuru-php
 9. Backlog Prioritized: https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Backlog%20Prioritized
+10. CD evidence: https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/1555289859591.png
 
 **Project part 4 of 5: Third and final Sprint (April 30th, 2019)**
 1. Backlogs and User Stories:
