@@ -215,4 +215,36 @@ Frank: None
 Chloe: None
 Alex: None
 
+April 19, 2019:
 
+What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
+Annotate your team's response so it's clear which team members did which activities.
+
+Pui: Finished implementing the general preferences questionnaire.
+Daniel: 
+JJ: 
+Frank: 
+Chloe: 
+Alex: 
+
+
+What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
+Annotate your team's response so it's clear which team members plan to do which activities.
+
+Pui: Start coding the game specific questionnaire. 
+Daniel: 
+JJ: 
+Frank: 
+Chloe: 
+Alex: 
+
+Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
+What are the impediments?
+What is your impediment removal plan?
+
+Pui: None at this moment. 
+Daniel: 
+JJ: 
+Frank: 
+Chloe: 
+Alex: 
