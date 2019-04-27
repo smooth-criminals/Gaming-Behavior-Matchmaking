@@ -418,3 +418,38 @@ JJ:
 Frank: 
 Chloe: 
 Alex: 
+=======================
+April 27, 2019:
+
+What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
+Annotate your team's response so it's clear which team members did which activities.
+
+Pui: 
+Daniel: completed QA tasks for dev tasks marked as done. Moved parent tasks to DONE.
+JJ: 
+Frank: 
+Chloe: 
+Alex: 
+
+
+What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
+Annotate your team's response so it's clear which team members plan to do which activities.
+
+Pui: 
+Daniel: plan to complete remaining QA tasks for dev tasks marked as done. Move parent tasks to DONE.
+JJ: 
+Frank: 
+Chloe: 
+Alex: 
+
+Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
+What are the impediments?
+What is your impediment removal plan?
+
+Pui: 
+Daniel: I'm blocked from completing by MAT-127 and MAT-129. I've notified the code reviewer to remove this block.
+JJ: 
+Frank: 
+Chloe: 
+Alex: 
+
