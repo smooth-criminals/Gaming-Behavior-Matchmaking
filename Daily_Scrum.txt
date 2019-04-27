@@ -214,14 +214,14 @@ JJ:  None
 Frank: None
 Chloe: None
 Alex: None
-
+==============================
 April 19, 2019:
 
 What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
 Annotate your team's response so it's clear which team members did which activities.
 
 Pui: Finished implementing the general preferences questionnaire.
-Daniel: 
+Daniel: Created as completed QA tasks for dev tasks marked as complete
 JJ: 
 Frank: 
 Chloe: 
@@ -232,7 +232,7 @@ What will you do in the next 24 hours to help the Development Team meet the Spri
 Annotate your team's response so it's clear which team members plan to do which activities.
 
 Pui: Start coding the game specific questionnaire. 
-Daniel: 
+Daniel: None
 JJ: 
 Frank: 
 Chloe: 
@@ -244,6 +244,176 @@ What is your impediment removal plan?
 
 Pui: None at this moment. 
 Daniel: 
+JJ: 
+Frank: 
+Chloe: 
+Alex: 
+=======================
+April 22, 2019:
+
+What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
+Annotate your team's response so it's clear which team members did which activities.
+
+Pui: 
+Daniel: completed QA tasks for dev tasks marked as done. Moved parent tasks to DONE.
+JJ: 
+Frank: 
+Chloe: 
+Alex: 
+
+
+What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
+Annotate your team's response so it's clear which team members plan to do which activities.
+
+Pui: 
+Daniel: complete QA tasks for dev tasks marked as done. Move parent tasks to DONE.
+JJ: 
+Frank: 
+Chloe: 
+Alex: 
+
+Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
+What are the impediments?
+What is your impediment removal plan?
+
+Pui: 
+Daniel: None
+JJ: 
+Frank: 
+Chloe: 
+Alex: 
+=======================
+April 23, 2019:
+
+What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
+Annotate your team's response so it's clear which team members did which activities.
+
+Pui: 
+Daniel: completed QA tasks for dev tasks marked as done. Moved parent tasks to DONE.
+JJ: 
+Frank: 
+Chloe: 
+Alex: 
+
+
+What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
+Annotate your team's response so it's clear which team members plan to do which activities.
+
+Pui: 
+Daniel: complete QA tasks for dev tasks marked as done. Move parent tasks to DONE.
+JJ: 
+Frank: 
+Chloe: 
+Alex: 
+
+Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
+What are the impediments?
+What is your impediment removal plan?
+
+Pui: 
+Daniel: None
+JJ: 
+Frank: 
+Chloe: 
+Alex: 
+=======================
+April 24, 2019:
+
+What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
+Annotate your team's response so it's clear which team members did which activities.
+
+Pui: 
+Daniel: completed QA tasks for dev tasks marked as done. Moved parent tasks to DONE.
+JJ: 
+Frank: 
+Chloe: 
+Alex: 
+
+
+What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
+Annotate your team's response so it's clear which team members plan to do which activities.
+
+Pui: 
+Daniel: complete QA tasks for dev tasks marked as done. Move parent tasks to DONE.
+JJ: 
+Frank: 
+Chloe: 
+Alex: 
+
+Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
+What are the impediments?
+What is your impediment removal plan?
+
+Pui: 
+Daniel: None
+JJ: 
+Frank: 
+Chloe: 
+Alex: 
+=======================
+April 25, 2019:
+
+What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
+Annotate your team's response so it's clear which team members did which activities.
+
+Pui: 
+Daniel: completed QA tasks for dev tasks marked as done. Moved parent tasks to DONE.
+JJ: 
+Frank: 
+Chloe: 
+Alex: 
+
+
+What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
+Annotate your team's response so it's clear which team members plan to do which activities.
+
+Pui: 
+Daniel: complete QA tasks for dev tasks marked as done. Move parent tasks to DONE.
+JJ: 
+Frank: 
+Chloe: 
+Alex: 
+
+Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
+What are the impediments?
+What is your impediment removal plan?
+
+Pui: 
+Daniel: None
+JJ: 
+Frank: 
+Chloe: 
+Alex: 
+=======================
+April 26, 2019:
+
+What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
+Annotate your team's response so it's clear which team members did which activities.
+
+Pui: 
+Daniel: completed QA tasks for dev tasks marked as done. Moved parent tasks to DONE.
+JJ: 
+Frank: 
+Chloe: 
+Alex: 
+
+
+What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
+Annotate your team's response so it's clear which team members plan to do which activities.
+
+Pui: 
+Daniel: complete QA tasks for dev tasks marked as done. Move parent tasks to DONE.
+JJ: 
+Frank: 
+Chloe: 
+Alex: 
+
+Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
+What are the impediments?
+What is your impediment removal plan?
+
+Pui: 
+Daniel: I'm blocked from completed QA task MAT-143: "QA: Ensure that the user can complete the profule questionaire." I've notified the code reviewer to remove this block.
 JJ: 
 Frank: 
 Chloe: 
