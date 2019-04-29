@@ -86,18 +86,20 @@ Recommended: Slack -- a very popular team messaging tool; see the first two chap
 
 **Project part 4 of 5: Third and final Sprint (April 30th, 2019)**
 1. Backlogs and User Stories:
-   1. Admin Board:
-   2. Developer Board:
+   1. Admin Board: https://smoothcriminals.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=GBM&selectedIssue=GBM-109
+   2. Developer Board: https://smoothcriminals.atlassian.net/secure/RapidBoard.jspa?rapidView=5&projectKey=MAT
 2. Burndown Chart: 
-   1. Admin Board:
-   2. Developer Board:
-3. Daily Scrums:
+   1. Admin Board:https://smoothcriminals.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=GBM&view=reporting&chart=burndownChart&sprint=6
+   2. Developer Board: https://smoothcriminals.atlassian.net/secure/RapidBoard.jspa?rapidView=5&projectKey=MAT&view=reporting&chart=burndownChart&sprint=10
+3. Daily Scrums:https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Daily_Scrum.txt
 4. Mob Evidence: 
-5. Sprint Review:
+5. Sprint Review:https://smoothcriminals.atlassian.net/wiki/spaces/M/pages/42729477/Final+Sprint+Review
 6. Test Cases:
-7. Working Prototype:
-8. Code Repo: 
-9. Backlog Prioritized: 
+   1. Test Code:
+   2. Test Pic: 
+7. Working Prototype:http://mat-php.herokuapp.com
+8. Code Repo: https://github.com/smooth-criminals/mat-php
+9. Backlog Prioritized: https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Backlog%20Prioritized
 
 **Project part 5 of 5: Presentation&Demo (May 2nd, 2019)**
 1. Presentation
