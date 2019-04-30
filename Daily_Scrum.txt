@@ -33,7 +33,7 @@ Frank: I don't see any right now.
 Chloe:I could see changing the method on how we want our backend to work causing the Development Team to not finish their goals. 
 Alex: Yes. I do not have any experience with implementing databases for web applications. Removal Plan: Read tutorials about MySQL databases.
 
-
+==============================
 
 March 17, 2019
 
@@ -68,7 +68,7 @@ Frank: No, I don't see any.
 Chloe:The same impediment as yesterday affecting today. (Refer to March 16th).
 Alex: Yes. I see the impediment from yesterday as still an impediment. I will follow the same removal plan.
 
-
+==============================
 
 March 24, 2019
 
@@ -102,6 +102,8 @@ JJ: Yes, learning Apostrophe. I do not know much about it. I will play around wi
 Frank: I don't see any impediments now.
 Chloe: None. 
 Alex: Yes. Our lack of experience with the CMS. Removal plan: Attempt to implement the feature we need, and if we run into problems, use docs/trial-and-error/tutorials.
+
+==============================
 
 April 4, 2019: 
 
@@ -143,8 +145,12 @@ What is your impediment removal plan?
 
 Daniel: Today: Completed refactoring on member login. Blocks: None
 
+==============================
+
 April 9:
 Daniel: Yesterday: Completed refactoring member login. Today: Start refactoring on member registration. Blocks: None
+
+==============================
 
 April 10, 2019: 
 
@@ -182,6 +188,8 @@ Alex: None
 April 11, 2019:
 Daniel: Yesterday: Completed registration refatoring Today and email verification. Today: Complete password reset. Add links and pages for News and Match-up Blocks: None
 
+==============================
+
 April 12, 2019: 
 
 What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
@@ -214,7 +222,9 @@ JJ:  None
 Frank: None
 Chloe: None
 Alex: None
+
 ==============================
+
 April 19, 2019:
 
 What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
@@ -224,7 +234,7 @@ Pui: Finished implementing the general preferences questionnaire.
 Daniel: Created as completed QA tasks for dev tasks marked as complete
 JJ: 
 Frank: 
-Chloe: 
+Chloe: Completed an tasks that were in progress
 Alex: 
 
 
@@ -235,7 +245,7 @@ Pui: Start coding the game specific questionnaire.
 Daniel: None
 JJ: 
 Frank: 
-Chloe: 
+Chloe: Ensure the next sprint is ready to start
 Alex: 
 
 Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
@@ -246,9 +256,11 @@ Pui: None at this moment.
 Daniel: 
 JJ: 
 Frank: 
-Chloe: 
+Chloe: N/A
 Alex: 
+
 =======================
+
 April 22, 2019:
 
 What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
@@ -258,7 +270,7 @@ Pui: Started coding the game specific questionnaire.
 Daniel: completed QA tasks for dev tasks marked as done. Moved parent tasks to DONE.
 JJ: 
 Frank: 
-Chloe: 
+Chloe: N/A
 Alex: 
 
 
@@ -269,7 +281,7 @@ Pui: Continue coding the game specific questionnaire.
 Daniel: complete QA tasks for dev tasks marked as done. Move parent tasks to DONE.
 JJ: 
 Frank: 
-Chloe: 
+Chloe: N/A
 Alex: 
 
 Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
@@ -280,9 +292,11 @@ Pui: None at this moment.
 Daniel: None
 JJ: 
 Frank: 
-Chloe: 
+Chloe: N/A
 Alex: 
+
 =======================
+
 April 23, 2019:
 
 What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
@@ -292,7 +306,7 @@ Pui: Continued coding the game specific questionnaire.
 Daniel: completed QA tasks for dev tasks marked as done. Moved parent tasks to DONE.
 JJ: 
 Frank: 
-Chloe: 
+Chloe: N/A
 Alex: 
 
 
@@ -303,7 +317,7 @@ Pui: Continue coding the game specific questionnaire.
 Daniel: complete QA tasks for dev tasks marked as done. Move parent tasks to DONE.
 JJ: 
 Frank: 
-Chloe: 
+Chloe: N/A
 Alex: 
 
 Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
@@ -314,9 +328,11 @@ Pui: None at this momement.
 Daniel: None
 JJ: 
 Frank: 
-Chloe: 
+Chloe: N/A
 Alex: 
+
 =======================
+
 April 24, 2019:
 
 What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
@@ -326,7 +342,7 @@ Pui: Continued coding the game specific questionnaire.
 Daniel: completed QA tasks for dev tasks marked as done. Moved parent tasks to DONE.
 JJ: 
 Frank: 
-Chloe: 
+Chloe: While, presentation is not on our Sprint, since it is due 2 days later. Created a presentation so that the other members can add their audio recording on their own time when they are able. 
 Alex: 
 
 
@@ -337,7 +353,7 @@ Pui: Continue coding the game specific questionnaire.
 Daniel: complete QA tasks for dev tasks marked as done. Move parent tasks to DONE.
 JJ: 
 Frank: 
-Chloe: 
+Chloe: Will start working on content for the site
 Alex: 
 
 Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
@@ -348,9 +364,11 @@ Pui: None
 Daniel: None
 JJ: 
 Frank: 
-Chloe: 
+Chloe: Hopefully all features are added in time. Crunch time. 
 Alex: 
+
 =======================
+
 April 25, 2019:
 
 What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
@@ -360,7 +378,7 @@ Pui: Continued coding the game specific questionnaire.
 Daniel: completed QA tasks for dev tasks marked as done. Moved parent tasks to DONE.
 JJ: 
 Frank: 
-Chloe: 
+Chloe: Worked on creating content for the site
 Alex: 
 
 
@@ -371,7 +389,7 @@ Pui: Continue coding the game specific questionnaire.
 Daniel: complete QA tasks for dev tasks marked as done. Move parent tasks to DONE.
 JJ: 
 Frank: 
-Chloe: 
+Chloe: Work on a logo
 Alex: 
 
 Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
@@ -382,9 +400,11 @@ Pui: None
 Daniel: None
 JJ: 
 Frank: 
-Chloe: 
+Chloe: N/A
 Alex: 
+
 =======================
+
 April 26, 2019:
 
 What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
@@ -394,7 +414,7 @@ Pui: Continued coding the game specific questionnaire. Modified exisiting databa
 Daniel: completed QA tasks for dev tasks marked as done. Moved parent tasks to DONE.
 JJ: 
 Frank: 
-Chloe: 
+Chloe: Worked on creating a logo for the site
 Alex: 
 
 
@@ -405,7 +425,7 @@ Pui: Continue coding the game specific questionnaire and modifying the databases
 Daniel: complete QA tasks for dev tasks marked as done. Move parent tasks to DONE.
 JJ: 
 Frank: 
-Chloe: 
+Chloe: Work with Alex tomorrow on Front-end features/looks for clarification
 Alex: 
 
 Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
@@ -416,9 +436,11 @@ Pui: None
 Daniel: I'm blocked from completed QA task MAT-143: "QA: Ensure that the user can complete the profule questionaire." I've notified the code reviewer to remove this block.
 JJ: 
 Frank: 
-Chloe: 
+Chloe: N/A
 Alex: 
+
 =======================
+
 April 27, 2019:
 
 What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
@@ -428,7 +450,7 @@ Pui: Finished game specifc questionnaire, and appropritely modified the database
 Daniel: completed QA tasks for dev tasks marked as done. Moved parent tasks to DONE.
 JJ: 
 Frank: 
-Chloe: 
+Chloe: Worked with Alex on Front-end features/looks
 Alex: 
 
 
@@ -439,7 +461,7 @@ Pui: Start preparing to unit test.
 Daniel: plan to complete remaining QA tasks for dev tasks marked as done. Move parent tasks to DONE.
 JJ: 
 Frank: 
-Chloe: 
+Chloe: Go throught the Sprint Tasks and ensure everything is on track
 Alex: 
 
 Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
@@ -450,6 +472,6 @@ Pui: None
 Daniel: I'm blocked from completing by MAT-127 and MAT-129. I've notified the code reviewer to remove this block.
 JJ: 
 Frank: 
-Chloe: 
+Chloe: Possibly some clean-up and tweaks not being added in time. Nothing that will stop release or the website from functioning. 
 Alex: 
 
