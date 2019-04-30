@@ -268,10 +268,10 @@ Annotate your team's response so it's clear which team members did which activit
 
 Pui: Started coding the game specific questionnaire. 
 Daniel: completed QA tasks for dev tasks marked as done. Moved parent tasks to DONE.
-JJ: 
-Frank: 
+JJ: Provided content to Chloe to be used later
+Frank: Assisted Daniel with QA tasks
 Chloe: N/A
-Alex: 
+Alex: Worked on Front-End development 
 
 
 What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
@@ -279,10 +279,10 @@ Annotate your team's response so it's clear which team members plan to do which 
 
 Pui: Continue coding the game specific questionnaire.
 Daniel: complete QA tasks for dev tasks marked as done. Move parent tasks to DONE.
-JJ: 
-Frank: 
+JJ: Assist Pui with the game specific quiestionnaire
+Frank: Continue assisting Daniel with QA tasks
 Chloe: N/A
-Alex: 
+Alex: Work with Pui and JJ on what is needed for the game specific questionnaire
 
 Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? 
 What are the impediments?
@@ -290,10 +290,10 @@ What is your impediment removal plan?
 
 Pui: None at this moment. 
 Daniel: None
-JJ: 
-Frank: 
+JJ: N/A
+Frank: None
 Chloe: N/A
-Alex: 
+Alex: Nope
 
 =======================
 
