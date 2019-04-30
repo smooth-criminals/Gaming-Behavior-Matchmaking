@@ -254,7 +254,7 @@ April 22, 2019:
 What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
 Annotate your team's response so it's clear which team members did which activities.
 
-Pui: 
+Pui: Started coding the game specific questionnaire. 
 Daniel: completed QA tasks for dev tasks marked as done. Moved parent tasks to DONE.
 JJ: 
 Frank: 
@@ -265,7 +265,7 @@ Alex:
 What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
 Annotate your team's response so it's clear which team members plan to do which activities.
 
-Pui: 
+Pui: Continue coding the game specific questionnaire.
 Daniel: complete QA tasks for dev tasks marked as done. Move parent tasks to DONE.
 JJ: 
 Frank: 
@@ -276,7 +276,7 @@ Do you see any impediment that prevents you or the Development Team from meeting
 What are the impediments?
 What is your impediment removal plan?
 
-Pui: 
+Pui: None at this moment. 
 Daniel: None
 JJ: 
 Frank: 
@@ -288,7 +288,7 @@ April 23, 2019:
 What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
 Annotate your team's response so it's clear which team members did which activities.
 
-Pui: 
+Pui: Continued coding the game specific questionnaire.
 Daniel: completed QA tasks for dev tasks marked as done. Moved parent tasks to DONE.
 JJ: 
 Frank: 
@@ -299,7 +299,7 @@ Alex:
 What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
 Annotate your team's response so it's clear which team members plan to do which activities.
 
-Pui: 
+Pui: Continue coding the game specific questionnaire.
 Daniel: complete QA tasks for dev tasks marked as done. Move parent tasks to DONE.
 JJ: 
 Frank: 
@@ -310,7 +310,7 @@ Do you see any impediment that prevents you or the Development Team from meeting
 What are the impediments?
 What is your impediment removal plan?
 
-Pui: 
+Pui: None at this momement. 
 Daniel: None
 JJ: 
 Frank: 
@@ -322,7 +322,7 @@ April 24, 2019:
 What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
 Annotate your team's response so it's clear which team members did which activities.
 
-Pui: 
+Pui: Continued coding the game specific questionnaire.
 Daniel: completed QA tasks for dev tasks marked as done. Moved parent tasks to DONE.
 JJ: 
 Frank: 
@@ -333,7 +333,7 @@ Alex:
 What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
 Annotate your team's response so it's clear which team members plan to do which activities.
 
-Pui: 
+Pui: Continue coding the game specific questionnaire.
 Daniel: complete QA tasks for dev tasks marked as done. Move parent tasks to DONE.
 JJ: 
 Frank: 
@@ -344,7 +344,7 @@ Do you see any impediment that prevents you or the Development Team from meeting
 What are the impediments?
 What is your impediment removal plan?
 
-Pui: 
+Pui: None 
 Daniel: None
 JJ: 
 Frank: 
@@ -356,7 +356,7 @@ April 25, 2019:
 What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
 Annotate your team's response so it's clear which team members did which activities.
 
-Pui: 
+Pui: Continued coding the game specific questionnaire.
 Daniel: completed QA tasks for dev tasks marked as done. Moved parent tasks to DONE.
 JJ: 
 Frank: 
@@ -367,7 +367,7 @@ Alex:
 What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
 Annotate your team's response so it's clear which team members plan to do which activities.
 
-Pui: 
+Pui: Continue coding the game specific questionnaire.
 Daniel: complete QA tasks for dev tasks marked as done. Move parent tasks to DONE.
 JJ: 
 Frank: 
@@ -378,7 +378,7 @@ Do you see any impediment that prevents you or the Development Team from meeting
 What are the impediments?
 What is your impediment removal plan?
 
-Pui: 
+Pui: None
 Daniel: None
 JJ: 
 Frank: 
@@ -390,7 +390,7 @@ April 26, 2019:
 What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
 Annotate your team's response so it's clear which team members did which activities.
 
-Pui: 
+Pui: Continued coding the game specific questionnaire. Modified exisiting databases to meet new criteria for storing questionnaire answers.
 Daniel: completed QA tasks for dev tasks marked as done. Moved parent tasks to DONE.
 JJ: 
 Frank: 
@@ -401,7 +401,7 @@ Alex:
 What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
 Annotate your team's response so it's clear which team members plan to do which activities.
 
-Pui: 
+Pui: Continue coding the game specific questionnaire and modifying the databases. 
 Daniel: complete QA tasks for dev tasks marked as done. Move parent tasks to DONE.
 JJ: 
 Frank: 
@@ -412,7 +412,7 @@ Do you see any impediment that prevents you or the Development Team from meeting
 What are the impediments?
 What is your impediment removal plan?
 
-Pui: 
+Pui: None
 Daniel: I'm blocked from completed QA task MAT-143: "QA: Ensure that the user can complete the profule questionaire." I've notified the code reviewer to remove this block.
 JJ: 
 Frank: 
@@ -424,7 +424,7 @@ April 27, 2019:
 What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal? 
 Annotate your team's response so it's clear which team members did which activities.
 
-Pui: 
+Pui: Finished game specifc questionnaire, and appropritely modified the databases. 
 Daniel: completed QA tasks for dev tasks marked as done. Moved parent tasks to DONE.
 JJ: 
 Frank: 
@@ -435,7 +435,7 @@ Alex:
 What will you do in the next 24 hours to help the Development Team meet the Sprint Goal? 
 Annotate your team's response so it's clear which team members plan to do which activities.
 
-Pui: 
+Pui: Start preparing to unit test. 
 Daniel: plan to complete remaining QA tasks for dev tasks marked as done. Move parent tasks to DONE.
 JJ: 
 Frank: 
@@ -446,7 +446,7 @@ Do you see any impediment that prevents you or the Development Team from meeting
 What are the impediments?
 What is your impediment removal plan?
 
-Pui: 
+Pui: None 
 Daniel: I'm blocked from completing by MAT-127 and MAT-129. I've notified the code reviewer to remove this block.
 JJ: 
 Frank: 
