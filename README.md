@@ -95,8 +95,8 @@ Recommended: Slack -- a very popular team messaging tool; see the first two chap
 4. Mob Evidence: 
 5. Sprint Review:https://smoothcriminals.atlassian.net/wiki/spaces/M/pages/42729477/Final+Sprint+Review
 6. Test Cases:
-   1. Test Code:
-   2. Test Pic: 
+   1. Test Code: https://github.com/smooth-criminals/mat-php/blob/Pui/Testing/Test.php
+   2. Test Pic: https://github.com/smooth-criminals/mat-php/blob/Pui/Testing/Sprint%203%20Testing%20Evidence.png
 7. Working Prototype:http://mat-php.herokuapp.com
 8. Code Repo: https://github.com/smooth-criminals/mat-php
 9. Backlog Prioritized: https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/Backlog%20Prioritized
