@@ -103,8 +103,10 @@ Recommended: Slack -- a very popular team messaging tool; see the first two chap
 10. CD evidence: https://github.com/smooth-criminals/Gaming-Behavior-Matchmaking/blob/master/1555289859591.png
 
 **Project part 5 of 5: Presentation&Demo (May 2nd, 2019)**
-1. Presentation
-2. Final Website: 
+1. Presentation: 
+   1. Google Drive: (Please download to get correct format)
+   2. Zip File Location: (contains editable PowerPoint Presentation and PowerPoint Show version)
+2. Final Website: http://mat-php.herokuapp.com
 
 **Notes (important–make sure to read carefully):**
 
