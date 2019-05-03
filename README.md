@@ -104,7 +104,7 @@ Recommended: Slack -- a very popular team messaging tool; see the first two chap
 
 **Project part 5 of 5: Presentation&Demo (May 2nd, 2019)**
 1. Presentation: 
-   1. Google Drive: (Please download to get correct format)
+   1. Google Drive: https://drive.google.com/file/d/1YyzQc_dq_AqL0EZzj6Y75kvfVNYK9mbR/view?usp=sharing (Please download to get correct format; Included PowerPoint Presenation and PowerPoint Show)
 2. Final Website: http://mat-php.herokuapp.com
 
 **Notes (important–make sure to read carefully):**
